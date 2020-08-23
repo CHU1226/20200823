@@ -652,6 +652,9 @@ footer .footer-social{
     #home{
         height: 100vh;
     }
+	.about-box p{
+		font-size: 16px;
+	}
     .title{
         width: 350px;
         height: 350px;
